@@ -9,6 +9,10 @@ header {
     padding: 0px 16px;
 }
 
+section {
+    padding: 16px;
+}
+
 nav {
     background-color: #333;
     overflow: hidden;
